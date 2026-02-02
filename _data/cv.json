@@ -1,28 +1,18 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ben Bizman",
+    "email": "ben.bizman@gmail.com",
+    "phone": "(832)503-0729",
+    "website": "https://realbenbizman.github.io",
+    "summary": "Currently a student at the University of Houston.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Houston",
       "countryCode": "US",
-      "region": ""
+      "region": "TX"
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
       {
         "network": "GitHub",
         "username": "academicpages",
@@ -33,29 +23,11 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Houston",
+      "area": "Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     }
